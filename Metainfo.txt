@@ -1,8 +1,10 @@
 Name of Quantlet: DEDAcryptoBasket
 
-Description: Construction and visualization of a CRIX-style cryptocurrency basket index. The Quantlet builds a basket-level crypto index from selected cryptocurrency assets, computes log returns, and visualizes basket returns and crypto exposure correlations.
+Published in: DEDA-Seminar_Courselet
 
-Keywords: cryptocurrency, crypto index, CRIX-style index, basket construction, log returns, market exposure, correlation, financial econometrics, data visualization, Python
+Description: Construction and visualization of a CRIX-style cryptocurrency basket index using Python. The Quantlet builds a basket-level crypto index from selected cryptocurrency assets, computes log returns, and generates figures for basket performance and crypto exposure correlation analysis.
+
+Keywords: cryptocurrency, crypto index, CRIX-style index, basket construction, log returns, market exposure, correlation, financial econometrics, Python, data visualization
 
 Author: Kewen FAN
 
@@ -12,7 +14,7 @@ Submitted_To: DEDA-Seminar_Courselet
 
 Institution: Humboldt University of Berlin
 
-Email:fankewen@student.hu-berlin.de
+Email: fankewen@student.hu-berlin.de
 
 Created_On: 2026-05-10
 
