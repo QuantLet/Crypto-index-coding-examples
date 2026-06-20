@@ -8,18 +8,12 @@ Keywords: cryptocurrency, crypto index, CRIX-style index, basket construction, l
 
 Author: Kewen FAN
 
-Submitted_By: Kewen FAN
+Submitted: Kewen FAN, 2026-05-10
 
-Submitted_To: DEDA-Seminar_Courselet
+Datafile: basket_index.csv
 
-Institution: Humboldt University of Berlin
+Input: The input file contains the constructed cryptocurrency basket index and return data used for basket-level performance and exposure analysis.
 
-Email: fankewen@student.hu-berlin.de
+Output: The Quantlet generates two output figures showing basket returns during a Bitcoin market event and crypto exposure correlation patterns.
 
-Created_On: 2026-05-10
-
-Code_File: DEDAcryptoBasket.ipynb
-
-Data_File: basket_index.csv
-
-Output_Files: fig_01_basket_returns_during_btc_crash.png, fig_02_crypto_exposure_correlation.png
+Example: fig_01_basket_returns_during_btc_crash.png, fig_02_crypto_exposure_correlation.png
